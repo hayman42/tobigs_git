@@ -1,2 +1,0 @@
-def tobigs(s):
-    pass
